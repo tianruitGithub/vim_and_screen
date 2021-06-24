@@ -114,4 +114,3 @@ else
 fi
 
 exit 0
-scp -r panfeng@8.140.109.250:/mnt/elasticsearch-7.11.1 /home/liuyang/ubantu20_env_install/
